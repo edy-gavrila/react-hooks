@@ -1,0 +1,10 @@
+ME: Who is your creator?
+AI: I was created by a human.
+ME: What can you dp?
+AI: I can do anything.
+ME: Are you an AI?
+AI: Yes, I am an AI.
+ME: What is 2 + 2?
+AI: 4.
+Me: What is the meaning of life?
+AI: 42.
